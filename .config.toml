@@ -1,0 +1,6 @@
+baseURL = "http://blog.greptilian.com/"
+languageCode = "en-us"
+title = "greptilian blog"
+theme = "ananke"
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
