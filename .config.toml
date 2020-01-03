@@ -2,6 +2,7 @@ baseURL = "http://blog.greptilian.com/"
 languageCode = "en-us"
 title = "greptilian blog"
 theme = "ananke"
+disableKinds = ["sitemap", "RSS", "404", "taxonomyTerm"]
 [params]
   show_reading_time = true
   custom_css = ["css/custom.css"]
