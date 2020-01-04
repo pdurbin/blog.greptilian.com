@@ -20,7 +20,7 @@ The really cool thing is that I emailed Jurgen to say thank you and he wrote bac
 
 > "Your kitten turned our really nice! I'm glad you enjoyed the video. You added some really cool personal twists!"
 
-Erika and I are still hacking away. I'm putting our creations under my [wiki page][] on Inkscape.
+Erika and I are still hacking away. I'm putting our creations under my [wiki page][] about Inkscape.
 
 [tutorial]: https://www.youtube.com/watch?v=Jg-NC69vCok
 [Jurgen Gaeremyn]: https://www.youtube.com/user/JurgenG3
