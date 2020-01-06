@@ -17,13 +17,13 @@ As a logo, Vectors have a nice hat:
 
 ![hat](/images/inkscape-vectors.svg)
 
-As I've mentioned a [couple][] [times][], I'm heading to FOSDEM in less than a month so I thought I'd see if any Inkscape people will be there. I was encouraged to ask (in the same email) the [devel][] and [users][] lists if anyone would like to meet up.
+As I've mentioned a [couple][] [times][], I'm heading to FOSDEM in less than a month so I thought I'd see if any Inkscape people will be there. I was encouraged to ask (in the same email) the [devel][] and [user][] lists if anyone would like to meet up.
 
 [couple]: /2020/01/02/dataverse-talk-accepted-at-fosdem/
 [times]: /2020/01/04/open-source-diversity-at-fosdem/
 
-[devel]: https://lists.inkscape.org/postorius/lists/inkscape-devel.lists.inkscape.org/
-[users]: https://lists.inkscape.org/postorius/lists/inkscape-user.lists.inkscape.org/
+[devel]: https://lists.inkscape.org/hyperkitty/list/inkscape-devel@lists.inkscape.org/message/SFGLXAAFJS2T2PNS474FEHJH2PXFXEZ5/
+[user]: https://lists.inkscape.org/hyperkitty/list/inkscape-user@lists.inkscape.org/message/SFGLXAAFJS2T2PNS474FEHJH2PXFXEZ5/
 
 I'm not sure if FOSDEM was supposed to be on the agenda or not but I was glad to have a couple minutes to ask about it. Here's the rest of the agenda:
 
