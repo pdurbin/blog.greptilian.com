@@ -40,6 +40,10 @@ I'm not sure if FOSDEM was supposed to be on the agenda or not but I was glad to
 - 2020 Big Picture Goals (February Meeting)
 - Revitalize Bug Hunt
 
+There were also pleny of interesting side conversations, such as one about an interesting [Inkscape history][] chart.
+
+[Inkscape history]: https://gitlab.com/inkscape/vectors/content/issues/73#note_247316899
+
 I like how Vectors reminds everyone of the action items at the end:
 
 ### Action Items (Revised):
