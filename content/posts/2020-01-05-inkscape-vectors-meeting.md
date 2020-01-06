@@ -65,6 +65,13 @@ One thing I learned is that the label [Blocker][] is being used for issues that 
 [266]: https://gitlab.com/inkscape/inkscape/issues/266
 [411]: https://gitlab.com/inkscape/inkscape/issues/411
 
+In the meeting itself, these and other bugs on Mac were [described][] this way:
+
+> - there is svg font editor window, click in some empty space and crash
+> - some dialogs cannot be closed or stay indefinitely on screen while being like 60% transparent
+> - our downgrade to Gtk 3.22 to get dockable dialogs working againg (regression in 3.24) introduced another regression that crashes Inkscape when you try to use typeahead in file chooser dialog 
+
+[described]: https://chat.inkscape.org/channel/team_devel?msg=Ju2EpFyNcke7ZvD9P
 
 Vectors already roughed out an agenda for their next meeting:
 
