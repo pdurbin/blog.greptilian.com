@@ -30,3 +30,7 @@ It's funny, when I was about a minute in to the first video I asked Craig if the
 By the way, I was a fan of Craig for a while even before I got a chance to meet him at a conference in Chicago. My [talk][] was recorded, but there are no demos. 🙂
 
 [talk]: http://wiki.greptilian.com/talks/2018/wholetale-reproducibility-and-dataverse/
+
+Update: Craig posted the [email][] to the list.
+
+[email]: https://groups.google.com/d/msg/dataverse-community/ZJg-_gS4n1g/qw2NNClCBgAJ
