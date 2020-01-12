@@ -45,6 +45,14 @@ I think we can pull it off next year if we have one of each, so four people.
 [Helper Bees README]: https://github.com/CoolidgeCornerSchool/helperbees/blob/master/README.md
 [Helper Bees Contributing Guide]: https://github.com/CoolidgeCornerSchool/helperbees/blob/master/CONTRIBUTING.md
 
+Four adults, I should say. Erika is already all in on Helper Bees. She recently created this Helper Bees coloring page:
+
+![coloring page of bees and a hive](/images/helper-bees-coloring-page.svg)
+
+Erika drew this fundraising thermometer that we're hoping to incorporate into the site some day:
+
+![bee filling up](/images/helper-bees-thermometer.gif)
+
 p.s. Here's how I used the ImageMagick convert tool to resize the small pixel art image without making it fuzzy:
 
     convert logo.png -scale 800% logo-scaled.png
