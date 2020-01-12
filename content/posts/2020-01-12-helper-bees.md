@@ -33,20 +33,23 @@ Here's my take on [roles for a Helper Bees team][]:
 
 | Role                | Tasks                                                     | Suggested reading
 | ---                 | ---                                                       | ---
-| Product owner       | Vision, priorities, backlog grooming, communication plans | [Agile Product Ownership in a Nutshell][]
+| Product owner       | Vision, priorities, backlog grooming                      | [Agile Product Ownership in a Nutshell][]
 | Admin               | User support                                              | [Helper Bees README][]
-| Front end developer | Jekyll, Bootstrap, and jQuery                             | [Helper Bees CONTRIBUTING][]
-| Back end developer  | Python, DynamoDB and AWS Lambda                           | [Helper Bees CONTRIBUTING][]
+| Front end developer | Jekyll, Bootstrap, and jQuery                             | [Helper Bees Contributing Guide][]
+| Back end developer  | Python, DynamoDB and AWS Lambda                           | [Helper Bees Contributing Guide][]
 
 I think we can pull it off next year if we have one of each, so four people.
 
 [roles for a Helper Bees team]: https://docs.google.com/spreadsheets/d/1KP6BNi92i74Y_OIN4-XLgg92twm0W-bhMnAokKR0mnI/edit?usp=sharing
 [Agile Product Ownership in a Nutshell]: https://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell
 [Helper Bees README]: https://github.com/CoolidgeCornerSchool/helperbees/blob/master/README.md
-[Helper Bees CONTRIBUTING]: https://github.com/CoolidgeCornerSchool/helperbees/blob/master/CONTRIBUTING.md
+[Helper Bees Contributing Guide]: https://github.com/CoolidgeCornerSchool/helperbees/blob/master/CONTRIBUTING.md
 
 p.s. Here's how I used the ImageMagick convert tool to resize the small pixel art image without making it fuzzy:
 
-
     convert logo.png -scale 800% logo-scaled.png
+
+p.p.s. While I'm enjoying [blogging with vi][] and writing in Markdown, I'm a little annoyed that to make the HTML table above look good on mobile, I'm replacing long words like "responsibilities" with "tasks" and removing long (important!) words like "communication." Maybe I should avoid tables in the future, but I thought I'd give it a try. 🙂
+
+[blogging with vi]: /2020/01/08/blogging-with-vi/
 
