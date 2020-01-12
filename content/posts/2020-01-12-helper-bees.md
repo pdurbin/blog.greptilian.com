@@ -8,7 +8,9 @@ This afternoon the Helper Bees team is having its biggest meeting since our kick
 
 ![](/images/helper-bees-logo-800.png)
 
-With Helper Bees we are **matching student volunteers to neighborhood donors**. At least that's the description I put for the [repo][] on GitHub.
+With Helper Bees we are **matching student volunteers to neighborhood donors**. At least that's the description I put for the [repo][] on GitHub, which has the following sequence diagram that a friend said is worth a thousand words:
+
+![](/images/helper-bees-sequence-diagram.png)
 
 [repo]: https://github.com/CoolidgeCornerSchool/helperbees
 
