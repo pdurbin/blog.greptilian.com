@@ -29,7 +29,7 @@ Here's a rough timeline of Helper Bees from my perspective:
 
 See, there are four of us on core Helper Bees team but I'm the only one who has a younger child in the school. The other three will understandably be moving on.
 
-The way I see it is that we'll first make a decision about if there enough parents of 7th graders to put in all the non-technical administrative work next school year. If so, we'll rally enough geeks to keep the site running.
+The way I see it is that we'll first make a decision about if there are enough parents of 7th graders to put in all the non-technical administrative work next school year. If so, we'll rally enough geeks to keep the site running.
 
 Here's my take on [roles for a Helper Bees team][]:
 
