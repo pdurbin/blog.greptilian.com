@@ -3,8 +3,10 @@ languageCode = "en-us"
 title = "greptilian blog"
 theme = "ananke"
 disableKinds = ["sitemap", "RSS", "404", "taxonomyTerm"]
+paginate = 40
 [params]
   show_reading_time = true
   custom_css = ["css/custom.css"]
+  recent_posts_number = 20
 [permalinks]
   posts = "/:year/:month/:day/:slug/"
