@@ -19,3 +19,16 @@ Looking through the [schedule][] and list of [speakers][] it should be a good co
 As I mentioned in a [thread][] on the Dataverse mailing list, my talk about Dataverse wasn't accepted. Oh well. 🙂
 
 [thread]: https://groups.google.com/d/msg/dataverse-community/_FXhLCZDbG0/lMbkKsyVBQAJ
+
+It looks like I'm supposed to keep an eye on [@pidapalooza][] to find people at [Time Out Market Lisbon][].
+
+[Time Out Market Lisbon]: https://www.timeoutmarket.com/lisboa/en/
+[@pidapalooza]: https://twitter.com/pidapalooza
+
+It looks like talks will be uploaded to [Zenodo][].
+
+[Zenodo]: https://zenodo.org/communities/pidapalooza20
+
+[#PIDapalooza2020][]
+
+[#PIDapalooza2020]: https://twitter.com/hashtag/PIDapalooza2020
