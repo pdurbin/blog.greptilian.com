@@ -40,3 +40,7 @@ In [Scaling Geospatial Analyses on Harvard's High Performance Computing Cannon C
 [Scaling Geospatial Analyses on Harvard's High Performance Computing Cannon Cluster]: https://harvarddatafest2020.sched.com/event/YNjQ/scaling-geospatial-analyses-on-harvards-high-performance-computing-cannon-cluster
 [Ben Lewis]: https://github.com/blewis
 [Devika Kakkar]: https://github.com/dkakkar
+
+Tomorrow I'm looking forward to welcoming [Fernando Pérez][] to Harvard.
+
+[Fernando Pérez]: http://blog.greptilian.com/2020/01/14/fernando-perez/
