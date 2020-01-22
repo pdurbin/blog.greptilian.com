@@ -9,7 +9,7 @@ The [schedule][] for [#HarvardDataFest][] is jam packed with awesome talks. I ha
 [schedule]: https://harvarddatafest2020.sched.com/
 [#HarvardDataFest]: https://twitter.com/hashtag/HarvardDataFest
 
-Unfortunately, I had to run out of [Data Visualization with Tableau][] with Jess Cohen-Tanugi to take a call but she did a fabulous job showing how to visualize [storms data][] (hurricanes, tropical storms, etc.), creating maps and "blending" data sources. I plopped myself down next to [Alyssa Goodman][] and I'm so glad I did. She had downloded the storms data and was playing with it in [Glue][]. After the talk, she gave a 15 minute demo to me and Jess and I was amazed. I had seen Glue years ago (actually, I spun up the initial VMs when working at FAS Research Computing back in 2011 or so) and hadn't realized how much it had matured, how it's no longer a tool only for astrophysics. Glue is a visualization tool for all of science, and it's open source!
+Unfortunately, I had to run out of [Data Visualization with Tableau][] with Jess Cohen-Tanugi to take a call but she did a fabulous job showing how to visualize [storms data][] (hurricanes, tropical storms, etc.), creating maps and "blending" data sources. I plopped myself down next to [Alyssa Goodman][] and I'm so glad I did. She had downloaded the storms data and was playing with it in [Glue][]. After the talk, she gave a 15 minute demo to me and Jess and I was amazed. I had seen Glue years ago (actually, I spun up the initial VMs when working at FAS Research Computing back in 2011 or so) and hadn't realized how much it had matured, how it's no longer a tool only for astrophysics. Glue is a visualization tool for all of science, and it's open source!
 
 [Data Visualization with Tableau]: https://harvarddatafest2020.sched.com/event/YQFS/data-visualization-with-tableau
 [storms data]: http://bit.ly/storms_data
@@ -25,7 +25,7 @@ Next up was [Reproducible & Collaborative Data Science with the Renku Platform][
 [first steps]: https://renku.readthedocs.io/en/latest/user/firststeps.html
 [tweeting]: https://twitter.com/philipdurbin/status/1219701018474119168
 
-I stopped by [Interactive Data Visualization with Shiny in R][] with Ista Zahn and the [shiny_workshop][] materials he was leading us through looked fantastic but I don't have an immediate need for Shiny and wanted to see what else was cooking.
+I stopped by [Interactive Data Visualization with Shiny in R][] with Ista Zahn and the [shiny_workshop][] materials he was leading us through looked fantastic but I don't have an immediate need for Shiny (and wasn't sure I wanted three hours of it) and wanted to see what else was cooking. I doubted Ista would be offended. He's a friend.
 
 [Interactive Data Visualization with Shiny in R]: https://harvarddatafest2020.sched.com/event/YNj4/interactive-data-visualization-with-shiny-in-r
 [shiny_workshop]: https://github.com/izahn/shiny_workshop
