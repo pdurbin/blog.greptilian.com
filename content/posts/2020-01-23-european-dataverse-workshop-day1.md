@@ -7,7 +7,7 @@ publishDate: 2020-01-01
 featured_image: /images/dataverse-logo.svg
 ---
 
-Ok, I'm not actually at [European Dataverse Workshop 2020][] but I'm enjoying the tweets from afar. I love how [#dataverse2020][] is [trending][] in Norway right now. I love how Oliver Bertuch describes Dataverse as a [vibrant community][]. [Shout outs][] are always appreciate, of course.
+Ok, I'm not actually at [European Dataverse Workshop 2020][] but I'm enjoying the tweets from afar. I love how [#dataverse2020][] is [trending][] in Norway right now. I love how Oliver Bertuch describes Dataverse as a [vibrant community][]. [Shout outs][] are always appreciated, of course.
 
 [European Dataverse Workshop 2020]: https://site.uit.no/dataverseno/european-dataverse-workshop-2020/
 [#dataverse2020]: https://twitter.com/hashtag/dataverse2020
