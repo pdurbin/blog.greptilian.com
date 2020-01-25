@@ -23,10 +23,15 @@ Searchable Linkable Open Public Indexed (SLOPI) communication (pronounced "slopp
 Messages written in the SLOPI communication style are:
 
 - **Searchable**: Messages can be found using Google or other search engines.
-- **Linkable**: Messages have a permalink on the web.
-- **Open**: Messages are in the open.
-- **Public**: Messages are public.
-- **Indexed**: Messages are indexed by search engines.
+- **Linkable**: Messages have a permalink on the web. Ideally the URL [doesn't change][] or redirects.
+- **Open**: Messages are in the open, like [open access][] articles with the full text available.
+- **Public**: Messages are public. No login is required.
+- **Indexed**: Messages are indexed by search engines. Or **Indexable** (if you prefer) by a [discovery layer][] you operate because [data liberation][] is possible.
+
+[doesn't change]: https://www.w3.org/Provider/Style/URI
+[open access]: https://en.wikipedia.org/wiki/Open_access
+[discovery layer]: https://en.wikipedia.org/wiki/Discovery_layer
+[data liberation]: https://en.wikipedia.org/wiki/Google_Data_Liberation_Front
 
 Examples of tools that support the SLOPI communication style include:
 
@@ -59,3 +64,9 @@ SLOPI is discussed in the [SLOPI issue tracker][] and the Good Labs [community][
 
 [community]: https://gitter.im/good-labs/community
 [SLOPI issue tracker]: https://github.com/good-labs/slopi-communication/issues
+
+## Acknowledgements
+
+Thank you to [Yamil Suarez][] for feedback on this post.
+
+[Yamil Suarez]: http://www.yamil.com
