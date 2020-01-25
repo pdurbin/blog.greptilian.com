@@ -34,3 +34,7 @@ Some of the slides from talks are available already:
 The [setting][] looks gorgeous!  Have fun!
 
 [setting]: https://twitter.com/mercecrosas/status/1219640161643958274
+
+Update: The story continues on [day 2][]!
+
+[day 2]: /2020/01/24/european-dataverse-workshop-day2/
