@@ -6,7 +6,7 @@ featured_image: /images/dataverse-logo.svg
 
 As [planned][], on Sunday I gave a [talk][] at FOSDEM called "Advancing science with Dataverse: Publication, discovery, citation, and exploration of research data."
 
-I was [eager][] to introduce a bunch of open source hackers like myself to the related concepts of open science and open access. Afterward, I was told that I did I good job of connecting these worlds. Phew.
+I was [eager][] to introduce a bunch of open source hackers like myself to the related concepts of open science and open access. Afterward, [Adina Wagner][] told me I did a good job of connecting these worlds. Phew.
 
 I'm also happy, of course, to get the word out about Dataverse.
 
@@ -14,13 +14,14 @@ Immediately after my talk a few people hung around to chat. I can't remember wha
 
 Outside the room, one of the creators of an Android app for FOSDEM asked if Dataverse would be interested in an app for our annual conference. I gave him a card, of course.
 
-A nice person asked for a Dataverse sticker and when I learned she worked on Datalad and asked if others on her team were around she invited me to step outside and have a [beer][] with them in the street, which isn't illegal in Brussels. Then a friend treated me to a [waffle][]. It was a good day.
+A nice person (Adina, that's how I met her) asked for a Dataverse sticker and when I learned she worked on Datalad and asked if others on her team were around she invited me to step outside and have a [beer][] with them in the street, which isn't illegal in Brussels. Then a friend treated me to a [waffle][]. It was a good day.
 
 My [slides][] are available on the FOSDEM website. If you watch the talk on [YouTube][] and compare it to the transcription below, you'll see I clean up my words a bit. Please feel free to [retweet][] if you are so inclined. Definitely reach out if you have any questions or comments.
 
 [planned]: /2020/01/02/dataverse-talk-accepted-at-fosdem/
 [talk]: https://fosdem.org/2020/schedule/event/dataverse/
 [eager]: https://twitter.com/philipdurbin/status/1223937494263136256
+[Adina Wagner]: https://twitter.com/AdinaKrik
 [GitHub issue]: https://github.com/IQSS/dataverse/issues/3927#issuecomment-378957470
 [beer]: https://twitter.com/philipdurbin/status/1223987847222431744
 [waffle]: https://twitter.com/philipdurbin/status/1223986219157262336
