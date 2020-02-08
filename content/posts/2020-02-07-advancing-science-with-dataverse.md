@@ -1,0 +1,97 @@
+---
+title: Advancing Science with Dataverse
+date: 2020-02-07T21:15:48-05:00
+featured_image: /images/dataverse-logo.svg
+---
+
+As [planned][], on Sunday I gave a [talk][] at FOSDEM called "Advancing science with Dataverse: Publication, discovery, citation, and exploration of research data."
+
+I was [eager][] to introduce a bunch of open source hackers like myself to the related concepts of open science and open access. Afterward, I was told that I did I good job of connecting these worlds. Phew.
+
+I'm also happy, of course, to get the word out about Dataverse.
+
+Immediately after my talk a few people hung around to chat. I can't remember what the first guy said but I remember giving him a card. Ed Thomson from GitHub, whom I remembered from a [GitHub issue][], wanted to pick my brain about reproducibility.
+
+Outside the room, one of the creators of an Android app for FOSDEM asked if Dataverse would be interested in an app for our annual conference. I gave him a card, of course.
+
+A nice person asked for a Dataverse sticker and when I learned she worked on Datalad and asked if others on her team were around she invited me to step outside and have a [beer][] with them in the street, which isn't illegal in Brussels. Then a friend treated me to a [waffle][]. It was a good day.
+
+My [slides][] are available on the FOSDEM website. If you watch the talk on [YouTube][] and compare it to the transcription below, you'll see I clean up my words a bit. Please feel free to [retweet][] if you are so inclined. Definitely reach out if you have any questions or comments.
+
+[planned]: /2020/01/02/dataverse-talk-accepted-at-fosdem/
+[talk]: https://fosdem.org/2020/schedule/event/dataverse/
+[eager]: https://twitter.com/philipdurbin/status/1223937494263136256
+[GitHub issue]: https://github.com/IQSS/dataverse/issues/3927#issuecomment-378957470
+[beer]: https://twitter.com/philipdurbin/status/1223987847222431744
+[waffle]: https://twitter.com/philipdurbin/status/1223986219157262336
+[YouTube]: https://twitter.com/philipdurbin/status/1224245828971388930
+[slides]: https://fosdem.org/2020/schedule/event/dataverse/
+[retweet]: https://twitter.com/philipdurbin/status/1224245828971388930
+
+---
+
+Thank you, everyone, for coming. My name is Philip Durbin. I'm a software developer at Harvard University. This is a picture of our campus. We're across the river from Boston in the United States. I'm here to tell you about Dataverse.
+
+Dataverse is a community of data enthusiasts, specifically research data. That means that we are scientists, researchers, and often we come from the academic library world, so librarians and data curators, data scientists, software developers like myself.
+
+These are some pictures from our annual gathering in Cambridge, Massachusetts. We have our sixth annual Datavers Community Meeting this June and everyone welcome to come. We always play what we call soccer.
+
+More importantly for FOSDEM, Dataverse is open source software. We are Apache licensed. There are 52 installation of Dataverse around the world across six continents. It has been translated into ten languages and there is an opportunity to contribute there, for sure.
+
+Here are some stats from GitHub for our repository. Over 100 contributors. We are written in Java but I'd like to emphasize that we have APIs and client libraries for a variety of languages such as Javascript, Python, and R. So if you would like to contribute to Dataverse there are lots of ways to get involved.
+
+Dataverse, again, is for research data. We would say that it's open source research data repository software. But what does that mean? Research data. Let me give you an example.
+
+I saw this on Twitter a few weeks ago and asked this scientist if I can put him in my slides. His name is Arvind P. Ravikumar. He's working on climate change. You can see here that he's tweeting his heart out. He is preparing a manuscript, a paper, for publication in a journal. He is explaining his argument. He is making data visualizations of all of this.
+
+Then he asks hashtag academic Twitter, "If I have primary data, what should I do with it?" In the past he's saying he has always put it under what's called supplementary information in the journal article, but one of the reviewers of his paper is saying, "You should get a DOI for your data."
+
+A DOI is a digital object identifier. It's a whole thing. I was just in Lisbon this week for a conference called PIDapalooza, PID being a Persistent IDentifier. In the academic world, this is how we cite each others work. This is how we acknowledge each other. We build up a graph of "this work is derived from this work." We are all standing on the shoulders of giants.
+
+With Dataverse what we are trying to do is elevate the dataset to be a first class research object. Instead of just your papers, think about a citation for your data.
+
+In the end, I'm happy so say that this scientist decided to put his data into Harvard Dataverse and this is what that looks like.
+
+Harvard Dataverse, and I have these pamphlets here, is a little unique among the 50 installations of Dataverse in that we accept from around the world and will host it for free, up to one terabyte. So this is an invitation to the crowd that if you yourself have research data and you don't know where to put it, or you know someone who does, please send them to Harvard Dataverse and we'd be happy to host the data for them.
+
+Another thing I wanted to point out about this dataset is that his raw data, his primary data is only about half a megabyte in size and yet you can see how rich the data is.  He's exploring the data with data visualization. He obviously has a lot to say on Twitter about his data.
+
+We might call this the long tail of science.
+
+If you work in, say, biochemistry, you might have a natural place to put your data. Maybe you put it in the Protein Data Bank,  for example. But for a lot of science there is no place for their data, so that's part of the need that Harvard Dataverse and the Dataverse project as a whole is trying to meet. We want to welcome all scientists from all disciplines to publish their data.
+
+I want to talk a little bit about cultural change and try to explain that people like the scientist we saw are very similar to open source developers.
+
+You can see that we like to share code and we are seeing that researchers are willing to share data, but this is a relatively new thing.
+
+This pyramid is a diagram that's based on a tweet storm by Brian Nosek from the Center for Open Science and what it means to me is that first we had to build the ability to share data at all. That's at the bottom. Then, projects like Dataverse have come along to hopefully improve the user experience for sharing data. I stopped by the Open Source Design table this morning and efforts like that are great. Let's not just have open source software. Let's make the software usable. Let's make it painless to share data.
+
+As we go up the pyramid what we're seeing now is some cultural change. Again, the reviewer of the paper is the one who said, "Hey, you should make your dataset a first class, citable, scholarly object." That's great. That's exactly what we've been trying to do for years, is get there where it becomes a good scientific practice to share your data with the world.
+
+Increasingly, funding these days often requires you to share your data, so university libraries and other places have a reason to install research data repository software like Dataverse so that they can have a place for the community to share their data. Also, I'll mention that on the journal side, the places that are publishing these academic papers, they are now giving incentives to researchers to share their data. They're trying to also move research toward more openness and more sharing of data. 
+
+Now I'd like to step you through quickly this concept we have in my world of what we call the FAIR Data Principles. FAIR is an acronym that stands for Findable, Accessible, Interoperable, and Reusable.
+
+Let's start with Findable. Part of the idea with putting data in a repository like Dataverse is that other scientists can find your work and reuse your work. When you publish a dataset in we sent metadata, that's data about data, across the wire to a nonprofit called DataCite. This is an aggregator of all sorts of scientific data. A new player on the scene is Google. They have just brought out of beta last week or the week before a tool called Google Dataset Search. We've been working closely with them and putting all the right technology in place so that they can easily crawl installations of Dataverse find the title, the author, the description, and make them all available in their new tool. This third one is from a project called SHARE that's another effort within academia to make more findable. In this case they use the Dataverse Search API to pull in the latest records all the time.
+
+These are a couple screenshots of what these tools might look like when you're searching for data. The thing I like about these tools is that they expose the number of citations to the data. Again, citations are sort of the currency of the academic world. Here's a dataset with 13 citations. That means that 13 papers are making use of data, reusing that data. We're really happy to see that data is being reused. We're hoping that this advances science.
+
+The second part of FAIR is Accessible. It's one thing just to throw an Excel file up on an FTP server but with Dataverse what we're trying to do is give researchers tools to explain exactly what their data is about. We support what we would say is a rich set of metadata fields and Dataverse is customizable to the scientific discipline. For example, there's a group at Harvard Medical School that structural biology data. They create their own metadata fields that matter to them. That's for the humans to read on the one side but we also support lots and lots of standards for interoperating between other data repositories. XML and JSON in a variety of formats. Google Dataset Search for example uses a standard called Schema.org JSON-LD, the dataset part of that. Old standards like Dublin Core are in XML. There's a whole variety to make data accessible.
+
+For Interoperable, the third letter in FAIR, I wanted to mention that Dataverse is not trying to be all things to all people. We're trying to focus really on the research data but we're very happy to interoperate and integrate with other platforms. If a researcher is happy to use Dropbox for the early work in their study that's totally fine, they can just get it into Dataverse later. Or other complementary tools like Open Science Framework, RSpace (that's an electronic lab notebook), Open Journal Systems.
+
+Once the data has been published, or even before publication, I would say, we are happy to integrate with computational environments. Jupyter Notebooks, for example, can be opened up in Binder; you just punch in the DOI of the dataset from Dataverse. There's a group called Whole Tale that is all about reproducibility. You may have heard that in science there is what we call this "reproducibility crisis." I'm not saying we're going to solve that problem but we are trying to make an effort toward that.
+
+Reusable. Back to that reproduciblity problem, one thing we're seeing is that journals are requiring the publication of data, in order for the paper to be published. We think this is a very positive thing. It's a bit of a big stick to hit researchers with, to say, "Sorry, you can't publish your paper until you publish the dataset," but for scientific reproducibility it's a wonderful thing. Here's an example of this, the American Journal of Political Science has a replication policy that says, you have to give us the data, and also the code. And then there is a group of analysts at the Odum Institute at the University of North Carolina that will make sure the code executes, make sure that the plots in the paper can be reproduced. And then they give it the stamp of approval and then the dataset can be published and then the paper can be published.
+
+That's part of the story with reproducibility. The problem is that these poor analysts are downloading all kinds of software all the time to their laptps tring to reproduce the work of random datasets all over the world. The next step for us is partner with tools like Code Ocean, again Whole Tale, Renku, and Jupyter. These are reproducibility platforms. Instead of that analyst trying to reproduce the results on their laptop, along with a lot of other datasets, what if they can click a button and have a Docker container spun up that has all the bits that they need to reproduce that work. Again, DOIs for papers, DOIs for datasets, and maybe in the future DOIs for what we would call an execution environment, a Dockerfile, a Docker image. That's sort of where our thinking is going in the future.
+
+These FAIR Data Principles are in an academic paper that you're welcome to check out and I'd also point you to a recent talk by Merce Crosas who has been leading the Dataverse project for over ten years. We had an event in Tromso, Norway just a couple weeks ago where there were 19 countries represented. She gave a talk explaining this FAIR data concept from the Dataverse perspective. And I'd like to note that when I landed here on Friday I was invited by Youssef and others from the State Archives of Belgium and we had a nice little meeting with representative from six countries, all running Dataverse, and so thanks again for that. It was great to see friendly faces upon arriving in Brussels.
+
+I have a little bit of bonus content. Two minutes left.
+
+This is something that I believe strongly in, that in the past open source has been very open in its communication, whether we are talking about the announcement of the GNU project or the announcement of Linux and discussion about open source and free software throughout time, we can still go back and look at that communication today. What I see more and more is that lots of projects are using Slack, which... is fine. We use Slack to say things like, "Hey, I brought in donuts. Come on by." It's great for that. But when you're thinking about your communities, and you're making decisions about your projects and the direction you're going, I'd just like to encourage everyone to continue to hold to our tradition of openness. If there can be an acronym called FAIR about data, I thought I could make an acronym about called SLOPI ("sloppy") about communication. SLOPI stands for Searchable, Linkable, Open, Public, Indexed. I wrote a little blog post with more about what SLOPI is. That's that.
+
+Last thing. There's a group called CHAOSS that's around. There was CHAOSSCon on Friday. There's a project at Harvard that is called the Open Source Software Health Index Project. The idea here is that something developers like us do naturally all the time is compare two projects and say, "Well, which one is healthier? Which is the horse to bet on?" What we're trying to do is get toward a way to quantify some of this. CHAOSS has built this awesome tool called Augur that will collect data about projects from GitHub repos and we're starting to mine that data a little bit. I just want to put this project on your radar.
+
+With that, I just wanted to say thank you. I don't think we have time for questions, unfortunately, but please find me online. We have a chat room, chat.dataverse.org. There's my email, my Twitter. Thank you very much for your attention!
