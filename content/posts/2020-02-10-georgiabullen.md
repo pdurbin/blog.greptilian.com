@@ -6,11 +6,13 @@ featured_image: /images/opensourcedesign-logo.svg
 
 Today I listened to a talk by [Georgia Bullen][] called [Beyond the Pile of Knobs: Usability and Design for Privacy, Security, Safety & Consent Privacy][] given in the Open Source Design [devroom][] at FOSDEM. Her [slides][] are available but the [video][] is well worth listening to or watching.
 
-Especially after hearing her say, 
+She advises,
 
 > "Don't just focus on the majority cases, focus on the high-risk users and understand their threats."
 
-I wonder what her take would be on the [Integrating DataTags with Harvard Dataverse][] poster. I understand that there is a lot of demand for the ability to share sensitive data but the risk seems great.
+She calls these the "stress cases," the people who are in the most high-risk settings, and suggests that what works for them will likely work for most people.
+
+I wonder what her take would be on the [Integrating DataTags with Harvard Dataverse][] poster. I understand that there is a lot of demand for the ability to share sensitive data but the risk seems great. Talks have been given about [DataTags][] with titles like [Sharing Data You Can't Share][].
 
 She mentioned working on a system called [PREreview][] ("a platform for the crowdsourcing of preprint reviews"), so she obviously has some experience in scholarly publishing.
 
@@ -26,5 +28,6 @@ Her company is called Simply Secure and at the end of her talk she invited every
 [PREreview]: https://prereview.org
 [Integrating DataTags with Harvard Dataverse]: https://osf.io/nk7f2/
 [DataTags]: http://datatags.org
+[Sharing Data You Can't Share]: https://dataverse.org/presentations/dataverse-datatags-sharing-data-you-cant-share
 [tweet]: https://twitter.com/simplysecureorg/status/1220819731902599168
 [Slack]: https://simplysecure.org/what-we-do/slack/
