@@ -16,6 +16,8 @@ She mentioned working on a system called [PREreview][] ("a platform for the crow
 
 As a geek, I also found it interesting that she has studied NoScript.
 
+Her company is called Simply Secure and at the end of her talk she invited everyone to join them on [Slack][].
+
 [Georgia Bullen]: https://georgiabullen.com
 [Beyond the Pile of Knobs: Usability and Design for Privacy, Security, Safety & Consent Privacy]: https://fosdem.org/2020/schedule/event/beyond_the_pile_of_knobs/
 [devroom]: https://fosdem.org/2020/schedule/track/open_source_design/
@@ -25,3 +27,4 @@ As a geek, I also found it interesting that she has studied NoScript.
 [Integrating DataTags with Harvard Dataverse]: https://osf.io/nk7f2/
 [DataTags]: http://datatags.org
 [tweet]: https://twitter.com/simplysecureorg/status/1220819731902599168
+[Slack]: https://simplysecure.org/what-we-do/slack/
