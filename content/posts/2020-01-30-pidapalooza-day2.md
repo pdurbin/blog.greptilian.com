@@ -26,3 +26,9 @@ In-Text Reference Pointer Identifier ([InTRePID][])
 New RA. Something to do with supply chain.
 
 https://doi.statuspage.io
+
+Update: Other people are blogging about PIDapalooza 2020:
+
+- [Alice Meadows][]
+
+[Alice Meadows]: https://niso.org/niso-io/2020/02/pidapalooza-not-your-average-information-event
