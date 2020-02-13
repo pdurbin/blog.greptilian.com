@@ -22,12 +22,13 @@ Digging through old emails, it looks like I first reached out to her in June 201
 
 In her talk she mentioned several new projects I wasn't familiar with:
 
-- [Wikum][]
+- [Wikum][]: recursive summarization
 - [Tilda][]
 - [YoUPS][]
 - [Squadbox][]
+- [Credibility Coalition][]
 - [Digital Juries][]
-- [PolicyKit][]
+- [PolicyKit][]: a toolkit for self-governance
 
 [Wikum]: http://wikum.org
 [Tilda]: https://tildachat.com
@@ -35,5 +36,31 @@ In her talk she mentioned several new projects I wasn't familiar with:
 [Squadbox]: https://squadbox.org
 [Digital Juries]: http://digitaljuries.com
 [PolicyKit]: https://github.com/amyxzhang/policykit
+[Credibility Coalition]: https://credibilitycoalition.org
 
-She's so full of ideas, it's hard to keep up with her!
+I rather not keep the piece of paper I scribbled on, so here are my notes:
+
+- online discussion is getting worse
+- two problems
+  - scale
+  - competing norms
+- "a civilization of the mind" [quote][] by John Perry Barlow
+- power to speak but power to curate is missing
+- need tools for collective curation
+- need to summarize unwieldy discussion
+- a wiki is neutral and easy to read compared to a forum
+- "answer wiki" on Quora is not connected to any posts
+- people don't want to edit each other's writing (they append in Google Docs)
+- lot of discussion in Jane Austen "talk" page on Wikipedia
+- summarization as listening
+- Wikum+ for living documents
+- when returning from vacation to Slack, people scroll up until they become tired
+- people want two things from summaries:
+  - structure
+  - context
+- people are harrassed in different ways
+- between user moderation and platform moderation could be networked moderation
+- [Block Party][]
+
+[quote]: https://www.eff.org/cyberspace-independence
+[Block Party]: https://www.blockpartyapp.com
