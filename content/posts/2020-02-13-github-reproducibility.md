@@ -13,9 +13,11 @@ As I mentioned in my [post][] about my talk at FOSDEM a couple weeks ago, Ed att
 
 [post]: /2020/02/07/advancing-science-with-dataverse/
 
-Here are the [notes][] from our meeting. It was so much fun talking to these guys. It makes me want to go back and listen to all the episodes of [All Things Git][], which I believe is where I first encountered Ed. That podcast is what prompted me to @mention him in a Dataverse [issue][]. Also, I don't think I mentioned this to Ed, but it's extremely cool that he's a maintainer of [libgit2][].
+Here are the [notes][] from our meeting. It was so much fun talking to these guys. It makes me want to go back and listen to all the episodes of [All Things Git][], which I believe is where I first encountered Ed. That podcast is what prompted me to @mention him in a Dataverse [issue][]. Also, I don't think I mentioned this to Ed, but it's extremely cool that he's a maintainer of [libgit2][]. He also has a [31 part][] (!) blog series about GitHub Actions that I'm hoping to read some day. My [short post][] on GitHub Actions only scratches the surface.
 
 [notes]: https://groups.google.com/d/msg/dataverse-community/uEJRcNoghjY/RVnXkuxoBgAJ
 [All Things Git]: https://www.allthingsgit.com
 [issue]: https://github.com/IQSS/dataverse/issues/3927#issuecomment-378947961
 [libgit2]: https://github.com/libgit2/libgit2
+[31 part]: https://edwardthomson.com/blog/github_actions_advent_calendar.html
+[short post]: http://blog.greptilian.com/2020/01/13/github-actions/
