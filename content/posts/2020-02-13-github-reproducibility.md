@@ -9,7 +9,7 @@ Today I had an absolutely fabulous call with [Ed Thomson][] and [Rimas Silkaitis
 [Ed Thomson]: https://github.com/ethomson
 [Rimas Silkaitis]: https://github.com/neovintage
 
-As I mentioned in my [post][] about my talk at FOSDEM a couple weeks ago, Ed attended my talk and approached me afterwards saying he's like to hear more the take Dataverse has on scientific reproducibility.
+As I mentioned in my [post][] about my talk at FOSDEM a couple weeks ago, Ed attended my talk and approached me afterwards saying he'd like to hear more the take Dataverse has on scientific reproducibility.
 
 [post]: /2020/02/07/advancing-science-with-dataverse/
 
