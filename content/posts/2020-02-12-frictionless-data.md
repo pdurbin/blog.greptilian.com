@@ -9,6 +9,7 @@ This was a follow up on yesterday's [Dataverse Community Call][] when [Lilly Win
 
 [ask]: https://gitter.im/frictionlessdata/chat/archives/2020/02/12
 [Dataverse Community Call]: https://groups.google.com/d/msg/dataverse-community/jm9hMvJTChU/vYJRWtyvAwAJ
+[Lilly Winfree]: https://github.com/lwinfree
 [Frictionless Data for Reproducible Research]: https://fosdem.org/2020/schedule/event/open_research_frictionless_data/
 [slides]: https://fosdem.org/2020/schedule/event/open_research_frictionless_data/
 
