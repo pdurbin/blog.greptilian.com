@@ -21,8 +21,8 @@ As far as I know, this is how the change unfolded:
 
 Now the [Matrix page][] in the Mozilla wiki explains how to connect and the fact that federation is enabled.
 
-What's a little weird to me is that the [#general][] channel was publicly readable earlier, which is how I found that video and those slides, but now it's hidden behind a login. There are blog posts out there about Mozilla [Being Open By Design][] their new installation of Matrix feels pretty closed to me.
+I found the video and slides above in the [#general][] channel which has a public preview of messages. It seems to be possible to link to a [specific message][].
 
 [Matrix page]: https://wiki.mozilla.org/Matrix
 [#general]: https://riot.im/app/#/room/#general:mozilla.org
-[Being Open By Design]: https://medium.com/mozilla-open-innovation/being-open-by-design-deec6768706
+[specific message]: https://view.matrix.org/room/!gTeEstkMlPUdxvIdCE:mozilla.org/$NU-c3M6Ki3WSL-kE9Xdb7kU87h6oQjoB29-eZB7sE7w
