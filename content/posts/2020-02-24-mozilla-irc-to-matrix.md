@@ -30,9 +30,11 @@ The meta channel to talk about Matrix at Mozilla is called [#synchronicity][].
 Here are some channels that seem to have public logs:
 
 - [#general][]
+- [#firefox][]
 - [#synchronicity][]
 
 [Matrix page]: https://wiki.mozilla.org/Matrix
 [specific message]: https://view.matrix.org/room/!gTeEstkMlPUdxvIdCE:mozilla.org/?anchor=$aWBZoT0CkjmzDB77jGR4QcVFjBYcYyDk72-aBiHxwVk&offset=540
-[#synchronicity]: https://view.matrix.org/alias/%23synchronicity:mozilla.org
 [#general]: https://view.matrix.org/alias/%23general:mozilla.org
+[#firefox]: https://view.matrix.org/alias/%23firefox:mozilla.org
+[#synchronicity]: https://view.matrix.org/alias/%23synchronicity:mozilla.org
