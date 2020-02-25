@@ -23,7 +23,7 @@ As far as I know, this is how the change unfolded:
 
 Now the [Matrix page][] in the Mozilla wiki explains how to connect and the fact that federation is enabled.
 
-I found the video and slides above in the [#general][] channel which has a public preview of messages and a [static version][] as well. It seems to be possible to link to a [specific message][] (16:13:11 on 21 Feb 2020 if I have trouble finding it again).
+I found the video and slides above in the [#general][] channel. It seems to be possible to link to a [specific message][] (16:13:11 on 21 Feb 2020 if I have trouble finding it again).
 
 The meta channel to talk about Matrix at Mozilla is called [#synchronicity][].
 
@@ -33,8 +33,6 @@ Here are some channels that seem to have public logs:
 - [#synchronicity][]
 
 [Matrix page]: https://wiki.mozilla.org/Matrix
-[#general]: https://riot.im/app/#/room/#general:mozilla.org
-[static version]: https://view.matrix.org/alias/%23general:mozilla.org
 [specific message]: https://view.matrix.org/room/!gTeEstkMlPUdxvIdCE:mozilla.org/?anchor=$aWBZoT0CkjmzDB77jGR4QcVFjBYcYyDk72-aBiHxwVk&offset=540
 [#synchronicity]: https://view.matrix.org/alias/%23synchronicity:mozilla.org
 [#general]: https://view.matrix.org/alias/%23general:mozilla.org
