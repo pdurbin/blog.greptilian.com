@@ -4,9 +4,11 @@ date: 2020-02-24T17:15:37-05:00
 featured_image: /images/matrix-logo.svg
 ---
 
-Today I watched a short [video][] about how Mozilla is moving from IRC to Matrix. The [slides][] are available as well.
+Today I watched a short [video][] about how Mozilla is moving from IRC to Matrix by [Rubén Martín][] from [Mozilla Reps][]. The [slides][] are available as well.
 
 [video]: https://youtu.be/YYGKHkLhKkk?t=169
+[Rubén Martín]: https://reps.mozilla.org/u/nukeador/
+[Mozilla Reps]: https://reps.mozilla.org
 [slides]: https://docs.google.com/presentation/d/1L8qJITX3VIQ_hnCMZ-ec1ZgktGNQeW3vFfJ_LLvmMrs/edit
 
 As far as I know, this is how the change unfolded:
