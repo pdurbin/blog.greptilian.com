@@ -9,7 +9,7 @@ Today I returned home after a long stay at [McLean][], a psychiatric hospital no
 
 [McLean]: https://en.wikipedia.org/wiki/McLean_Hospital
 
-I now recognize that I was getting increasingly manic in the days leading up to my trip to the emergency room and subsequent hospitalization. People at work and in my personal life kept asking me what had gotten into to me. I kept wondering why they were moving, talking, and thinking so slowly.
+I now recognize that I was getting increasingly manic in the days leading up to my trip to the emergency room and subsequent hospitalization. People at work and in my personal life kept asking me what had gotten into me. I kept wondering why they were moving, talking, and thinking so slowly.
 
 My "first break" (first mood episode) occurred on Thursday, March 5th. The night before I had only slept for an hour and the nights before that I hadn't been sleeping well either. I had experienced sleep deprivation before when my children were babies, but nothing like this. Instead of sleeping I was in chat rooms or working away on what seemed like some great ideas. After the sun finally came up and I had some breakfast, I biked to work, taking more risks than I normally would, and stopped at the gym along the way.
 
