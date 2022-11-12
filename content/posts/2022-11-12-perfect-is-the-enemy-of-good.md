@@ -20,7 +20,7 @@ I had managed to shave off a few seconds each time. Could I keep this up? I wasn
 
 ![erg](/images/erg.svg)
 
-Yesterday I decided to just get on the erg and row a bit. Forget about the data. Forget about beating records. It's ok to just have some fun and get light workout. Then I changed into shorts and did a couple 2Ks before the day was through. I didn't add those observations to my dataset either.
+Yesterday I decided to just get on the erg and row a bit. Forget about the data. Forget about beating records. It's ok to just have some fun and get a light workout. Then I changed into shorts and did a couple 2Ks before the day was through. I didn't add those observations to my dataset either.
 
 Maybe it's the same with blogging. When I started this blog in 2020 I posted every day for two months. It was too much. I only posted twice last year. This is my first post of 2022. If it's the last, better one post than zero. Perfect is the enemy of good.
 
