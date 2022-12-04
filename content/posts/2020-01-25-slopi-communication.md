@@ -52,7 +52,7 @@ Examples of tools that support the SLOPI communication style include:
 [XFS]: http://logs.xmpp.org/xsf/
 [#team_devel]: https://chat.inkscape.org/channel/team_devel
 
-The [coining][] of the term "SLOPI" began on May 5th, 2019 and "Searchable Linkable Open Public Indexed (SLOPI) Communication" was [proposed][] as a Good Labs project later that day. SLOPI was [well received][] when presented as one of many [crazy ideas][] on June 21, 2019. A couple days later it was announced on [Twitter][].
+The [coining][] of the term "SLOPI" began on May 5th, 2019 and "Searchable Linkable Open Public Indexed (SLOPI) Communication" was [proposed][] as a project later that day. SLOPI was [well received][] when presented as one of many [crazy ideas][] on June 21, 2019. A couple days later it was announced on [Twitter][].
 
 [coining]: https://gitter.im/good-labs/community/archives/2019/05/05?at=5ccf205497dcb371d86b12d1
 [proposed]: https://github.com/good-labs/good-labs.github.io/pull/24
@@ -60,10 +60,9 @@ The [coining][] of the term "SLOPI" began on May 5th, 2019 and "Searchable Linka
 [crazy ideas]: https://scholar.harvard.edu/pdurbin/blog/2019/jupyter-notebooks-and-crazy-ideas-for-dataverse
 [Twitter]: https://twitter.com/philipdurbin/status/1142962220655157249
 
-SLOPI is discussed in the [SLOPI issue tracker][] and the Good Labs [community][] room. Feedback is very welcome!
+Feedback on SLOPI is very welcome! Please simply open an [issue][].
 
-[community]: https://gitter.im/good-labs/community
-[SLOPI issue tracker]: https://github.com/good-labs/slopi-communication/issues
+[issue]: https://github.com/pdurbin/slopi-communication/issues
 
 ## Acknowledgements
 
