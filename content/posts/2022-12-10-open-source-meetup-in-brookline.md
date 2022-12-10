@@ -7,7 +7,7 @@ featured_image: /images/coolcorn_400x400.jpg
 ---
 I'm co-organizing an open source meetup in Brookline about a week from now:
 
-- When: Sunday, December 10th, 2022 at 5pm
+- When: Sunday, December 18th, 2022 at 5pm
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
