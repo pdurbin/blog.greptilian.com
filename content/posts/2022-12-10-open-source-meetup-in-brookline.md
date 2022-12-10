@@ -22,4 +22,6 @@ Who's coming? Well, the two co-organizers for sure. If you'd like to be added to
 [Dataverse]: https://github.com/IQSS/dataverse
 [Quiet]: https://github.com/TryQuiet/quiet
 
-This will be a very casual event. If it's just me and Holmes, we might just sit at the bar. If this time and location works well, we might make this a monthly event. All are welcome!
+This will be a very casual event. If it's just me and Holmes, we might just sit at the bar. If this time and location works well, we might make this a monthly event. All are welcome! See also the [tweet][] by Holmes.
+
+[tweet]: https://twitter.com/holmesworcester/status/1601639952747749376
