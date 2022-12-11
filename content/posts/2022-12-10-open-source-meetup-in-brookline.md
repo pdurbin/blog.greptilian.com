@@ -7,10 +7,11 @@ featured_image: /images/coolcorn_400x400.jpg
 ---
 I'm co-organizing an open source meetup in Brookline about a week from now:
 
-- When: Sunday, December 18th, 2022 at 5pm
+- When: Sunday, December 18th, 2022 at 5pm ([Google Calendar][])
 - Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
 
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
+[Google Calendar]: https://www.google.com/calendar/event?eid=MDM4Y3ZvM24xbmt2djF1bzExYThzMWZ1YzUgcGhpbGlwZHVyYmluQG0&ctz=America/New_York
 [Google Maps]: https://goo.gl/maps/Xn9q3wVHF5Q4jJsZA
 
 Who's coming? Well, the two co-organizers for sure. If you'd like to be added to the list below, please email me at philipdurbin@gmail.com.
