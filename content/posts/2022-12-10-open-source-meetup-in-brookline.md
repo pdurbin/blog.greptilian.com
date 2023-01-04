@@ -27,3 +27,7 @@ This will be a very casual event. If it's just me and Holmes, we might just sit 
 
 [Mastodon]: https://mastodon.social/@holmesworcester@mastodon.cloud/109490762493621873
 [Twitter]: https://twitter.com/holmesworcester/status/1601639952747749376
+
+Update: We're [meeting again][] in January! Come one, come all!
+
+[meeting again]: /2023/01/03/open-source-meetup-in-brookline-2
