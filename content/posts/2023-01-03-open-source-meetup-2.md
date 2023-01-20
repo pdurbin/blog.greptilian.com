@@ -22,3 +22,5 @@ All are welcome, of course. If you'd like to RSVP (which certainly isn't require
 The group is using [Quiet][] to communicate (#boston in the Quiet-Team community). Please feel free to ask for the invite code.
 
 [Quiet]: https://github.com/TryQuiet/quiet
+
+By the way, due to scheduling conflicts, we're not sure if we're meeting in February. Please check back here for an update.
