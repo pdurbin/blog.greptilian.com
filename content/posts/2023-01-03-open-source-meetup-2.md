@@ -7,10 +7,10 @@ publishDate: 2020-01-01
 featured_image: /images/coolcorn_400x400.jpg
 ---
 
-The [first][] open source meetup in Brookline was a blast. Holmes and I were joined by eight other open source and decentralized web enthusiasts over drinks and dinner. We decided we'll do it again at the same place (~~though I'll try to get the back room~~ in the back room this time):
+The [first][] open source meetup in Brookline was a blast. Holmes and I were joined by eight other open source and decentralized web enthusiasts over drinks and dinner. We decided we'll do it again at the same place:
 
 - When: Sunday, January 22nd, 2023 at 5pm ([Google Calendar][])
-- Where: [Hamilton Restaurant & Bar][], 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
+- Where: [Hamilton Restaurant & Bar][] (in the back room), 1366 Beacon Street Brookline, MA 02446 ([Google Maps][])
 
 [first]: /2022/12/10/open-source-meetup-in-brookline
 [Hamilton Restaurant & Bar]: https://hamiltonbrookline.com
