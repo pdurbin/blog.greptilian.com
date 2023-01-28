@@ -20,7 +20,10 @@ The [agenda][] was packed with interesting talks, but here are some of my favori
 
 (I'll update the links above as edited videos are available. I listened to the raw versions.)
 
-I actually know some of these folks, such as Martin and Máirín (Mo) from real life and Ryan from [Inkscape Vectors][]. David Revoy is well known for his [Pepper&Carrot][] web comic. It's fun watching these artists show off their craft, when they aren't playing [Gartic Phone][].
+I actually know some of these folks, such as Martin and Máirín (Mo) from real life and Ryan from [Inkscape Vectors][]. David Revoy is well known for his [Pepper&Carrot][] web comic. It's fun watching these artists show off their craft.
+
+I also picked up a new podcast called [FOSS and Crafts][] and an online game called [Gartic Phone][] that reminds me a lot of Telestrations.
+
 
 It sounds like they want the discussion to continue in a [Matrix channel][] where I heard that they're looking for [help][] to get all the content up. (I've only put in [a few minutes][] so far.)
 
@@ -36,6 +39,7 @@ I was glad to hear they plan to do it again next year.
 [A quick painting demo using Krita by David Revoy]: https://peertube.linuxrocks.online/w/2n9o2kcyS3bQy8q1BtJ9N5
 [Inkscape Vectors]: /2020/02/08/inkscape-vectors-meeting/
 [Pepper&Carrot]: https://www.peppercarrot.com
+[FOSS and Crafts]: https://fossandcrafts.org
 [Gartic Phone]: https://garticphone.com
 [Matrix channel]: https://matrix.to/#/#creativefreedom:fedora.im
 [help]: https://gitlab.com/groups/fedora/design/-/epics/23
