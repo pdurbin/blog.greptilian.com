@@ -22,7 +22,7 @@ The [agenda][] was packed with interesting talks, but here are some of my favori
 
 I actually know some of these folks, such as Martin and Máirín (Mo) from real life and Ryan from [Inkscape Vectors][]. David Revoy is well known for his [Pepper&Carrot][] web comic. It's fun watching these artists show off their craft, when they aren't playing [Gartic Phone][].
 
-It sounds like they want the discussion to continue in a [Matrix channel][] where I heard that they're looking for [help][] to get all the content up. (I've only put [a few minutes][] so far.)
+It sounds like they want the discussion to continue in a [Matrix channel][] where I heard that they're looking for [help][] to get all the content up. (I've only put in [a few minutes][] so far.)
 
 I was glad to hear they plan to do it again next year.
 
