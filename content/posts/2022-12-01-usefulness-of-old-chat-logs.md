@@ -30,3 +30,9 @@ It's funny. I was partially inspired to start being more open and public in my c
 
 [Maximizing The Value of Your Keystrokes]: https://blog.codinghorror.com/maximizing-the-value-of-your-keystrokes/
 [against]: https://youtu.be/oZz2Rr5qFuQ?t=1800
+
+---
+
+2023-01-28 update: This morning I woke up to a [conversation][] where an answer may be locked up in a free Slack workspace and the knowledge is inaccessible. Frustrating. 😡
+
+[conversation]: https://github.com/IQSS/dataverse/issues/9328#issuecomment-1407169588
