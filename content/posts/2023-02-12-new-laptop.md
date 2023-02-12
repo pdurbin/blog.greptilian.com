@@ -13,11 +13,23 @@ I've been in the market for a new laptop for a long, long time. I bought my last
 [the]: https://unix.stackexchange.com/questions/37962/can-i-prevent-disable-touchpad-while-typing-from-affecting-mouse-movements
 [hardware]: http://wiki.greptilian.com/gnome/3/issues/disable-touchpad-while-typing-paralyzes-mouse-movements/
 
-Ideally I want a setup at home similar to what I have at work: a MacBook Pro with a large monitor and an external keyboard. Ergonomics are important to me and at least for the Java I hack on at work, being able to see more code at once helps a lot. However, at home I'm quite space constrained so the only thing from above that I got was an external keyboard. Instead of an external monitor I bought a [Curve Flex][] laptop stand to get the screen much closer to eye level.
+Ideally I want a setup at home similar to what I have at work: a MacBook Pro with a large monitor and an external keyboard. Ergonomics are important to me and at least for the Java I hack on at work, being able to see more code at once helps a lot. However, at home I'm quite space constrained so the only thing from above that I got was an external keyboard. Instead of an external monitor I bought a [Curve Flex][] stand to get the screen much closer to eye level.
 
 [Curve Flex]: https://www.twelvesouth.com/products/curve-flex-for-macbook
 
-As for the laptop itself I went for an [M2 Macbook Air][]. This is my first experience with an ARM processor in a computer and it's... interesting. The first Apple silicon chip was the M1, of course. A colleague at work has one and he hasn't had much trouble that I know of.
+As for the laptop itself I went for an [M2 Macbook Air][]. I was especially focused on increading the display resolution from 1366 by 768 pixels on my old ThinkPad. I did consider a Linux-based Dell XPS but the resolution was too low. The base prices are below but I did double the RAM to 16 GB.
+
+```
+Name          	display resolution	diagln	weight	price
+old Thinkpad	1366 by 768 pixels
+MacBook Air M1	2560 by 1600 pixels	13.3"	2.8 lbs	$ 999
+MacBook Air M2	2560 by 1664 pixels	13.6"	2.7 lbs	$1199
+MB Pro 14" M2	3024 by 1964 pixels	14.2"	3.5 lbs	$1999
+MB Pro 16" M2	3456 by 2234 pixels	16.2"	4.8 lbs	$2499
+Dell XPS 13    	1920 by 1200 pixels	13.4"	2.6 lbs	$ 989
+```
+
+This is my first experience with an ARM processor in a computer and it's... interesting. The first Apple silicon chip in a laptop was the M1, of course. A colleague at work has one and he hasn't had much trouble that I know of.
 
 [M2 Macbook Air]: https://en.wikipedia.org/wiki/MacBook_Air_(Apple_silicon)
 
