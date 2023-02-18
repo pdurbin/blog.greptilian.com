@@ -23,4 +23,6 @@ The group is using [Quiet][] to communicate (#boston in the Quiet-Team community
 
 [Quiet]: https://github.com/TryQuiet/quiet
 
-By the way, due to scheduling conflicts, we're not sure if we're meeting in February. Please check back here for an update.
+Due to travel, we are not meeting in February. See you [in March][]!
+
+[in March]: /2023/02/17/open-source-meetup-in-brookline-3/
