@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text-style {
+      font: 40px serif;
+      fill: #000000;
+    }
+  </style>
+  <text x="0"  y="120" class="text-style">visibility</text>
+  <text x="80" y="220" class="text-style">awareness</text>
+  <text x="140" y="320" class="text-style">accountability</text>
+</svg>
