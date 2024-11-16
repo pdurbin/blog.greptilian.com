@@ -50,6 +50,8 @@ I gave out a lot of business cards and even got a [pull request](https://github.
 
 From talking to Matt I was glad to see that metrics on [Dataverse](https://dataverse.org) are available at https://metrix.chaoss.io which is an instance of some new software called [8Knot](https://github.com/oss-aspen/8Knot).
 
-Lorena pointed me toward an interesting [webpage](https://gw-ospo.github.io/oss-licensing/license_your_own_work.html) intended to help researchers decide which license to use.
+Lorena pointed me toward an interesting book called [Coding Freedom](https://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) by Harvard anthropologist [Gabriella Coleman](https://en.wikipedia.org/wiki/Gabriella_Coleman) as well as a [webpage](https://gw-ospo.github.io/oss-licensing/license_your_own_work.html) intended to help researchers decide which license to use.
+
+I might want to check out an article Frank mentioned called [The Economics of Technology Sharing: Open Source and Beyond](https://www.aeaweb.org/articles?id=10.1257/0895330054048678) by Nobel-prize winning economist [Jean Tirole](https://en.wikipedia.org/wiki/Jean_Tirole).
 
 This conference was different than other open source conferences I've attended like [LibrePlanet](https://libreplanet.org) or [FOSDEM](https://fosdem.org) (check out [my talk](http://wiki.greptilian.com/talks/2020/fosdem-advancing-science-with-dataverse/), by the way). While there were a few hackers like me, the OFA Symposium had lots of academics and policy makers who really care about all the necessary infrastructure and support that the hackers need to do their thing. I'm glad people and conferences like this exist! Thanks for the invitation and please keep up the good work!
