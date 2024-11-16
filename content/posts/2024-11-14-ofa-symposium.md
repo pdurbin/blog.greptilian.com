@@ -36,6 +36,12 @@ There were lots of other great speakers and panelists but I wasn't able to meet 
 
 During an opening talk I laughed when [Brian Fitzgerald](https://www.brian-fitzgerald.com) reminded us that when announcing Linux, Linus Torvalds [said](https://groups.google.com/d/msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ) it "won't be big and professional".
 
+In her talk, Hana mentioned https://meaningfulcode.org as a place where people can find projects to work on that are making the world a better place.
+
+I heard good things about [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org) and [YouthMappers](https://www.youthmappers.org).
+
+I was reminded that [Outreachy](https://www.outreachy.org) is doing good a good job of bringing underrepresented groups into open source.
+
 The conference was organized into themes and on day one I spent time in the "Diversifying Open Source" and "Open Source Economics" rooms. On day two I split time between the "Open Source Ecosystems" and "Open Source and AI" talks.
 
 At the end of day one attendees gathered at Charlie's Kitchen for food and fun. Somehow I thought it would just be hamburgers but they had a nice variety including coconut shrimp, calamari, tacos, and sushi. It was nice to walk and talk on the way there, despite the cold.
