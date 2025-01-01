@@ -21,6 +21,8 @@ I just finished the book and I'd recommend it. It's a bit academic and dry at ti
 - ruling through limited government and universal law, and
 - preserving a commitment to equal opportunity and meritocracy" (page 2)
 
+Open source itself is politically agnostic, she emphasizes, despite Microsoft's attempts to label it as communist.
+
 She talks about how open source challenges traditional notions of intellectual property.
 
 She has a great quote from Bill Gates who said, about software, in 1976, "Who cares if the people who worked on it get paid?... One thing you do is prevent good software from being written." (page 66) This is ironic, of course, because if you fast forward 50 years, lots and lots of good software has been written without the authors getting paid.
