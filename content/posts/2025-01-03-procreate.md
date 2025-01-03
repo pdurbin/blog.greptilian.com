@@ -29,3 +29,5 @@ And an alligator:
 I decided to recreate an animation from a Calvin and Hobbes [strip](https://www.gocomics.com/calvinandhobbes/1995/06/18) from 1995. I'm pretty happy with how it turned out. I texted my brother and said the onion skin feature reminded me of how we used to make animations on our Amiga computer using [Disney Animation Studio](https://archive.org/details/amiga-world-1990-09/page/n19/mode/2up) in the early 90s.
 
 ![](/annex/stick.gif)
+
+In addition to the tutorials, I'm finding myself dipping in and out of the [Procreate YouTube channel](https://www.youtube.com/procreate). I watched a [video](https://www.youtube.com/watch?v=1fdhPUoG9XY) about [Katsuya Terada](https://en.wikipedia.org/wiki/Katsuya_Terada) and it struck my how he works from anywhere: outside, in a cafe, wherever. Somehow I made my way over to a [video](https://www.youtube.com/watch?v=uYK1OXlm7Us) about [Doug Chiang](https://en.wikipedia.org/wiki/Doug_Chiang) who only talks about Procreate at the beginning but then goes on so show some really neat art he has made over the decades when working on Star Wars.
