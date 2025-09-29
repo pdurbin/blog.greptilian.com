@@ -17,6 +17,6 @@ Here are the docs: https://docs.github.com/en/pull-requests/collaborating-with-p
 
 Here's how to turn on the "update branch" button, per repo, by checking the box called "always suggest updating pull request branches": https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges/managing-suggestions-to-update-pull-request-branches
 
-Is there any downside to enabling the "update branch" button? Well, there are [complaints](https://github.com/orgs/community/discussions/13749#discussioncomment-8270958) that doing so could result in more CI runs.
+Is there any downside to enabling the "update branch" button? Well, there are [complaints](https://github.com/orgs/community/discussions/13749#discussioncomment-8270958) that doing so could result in more CI runs. What if you could prevent people from making a merge commit by [disabling](https://github.com/orgs/community/discussions/13749) that option?
 
 On a related note, there's a button called "sync fork" that does something similar for forks specifically. It was announced at https://github.blog/changelog/2021-05-06-sync-an-out-of-date-branch-of-a-fork-from-the-web/ and the docs are here: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork
