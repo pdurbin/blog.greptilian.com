@@ -18,7 +18,7 @@ It turns out Certbot had me covered. It handles multiple domains just fine. See 
 
 ![](/images/certbot.svg)
 
-Now, Certbot did pick the first alphabetically-sorted FQDN it saw (api.greptilian.com) as the most important one, or at least the one that will given the common name in the certificate. But who cares? Who looks at the certs anyway, right? With two different domains (greptilian.com and thedurbins.com), I'm not even sure what common name I want in the cert so maybe it's just as well that Certbot picked for me.
+Now, Certbot did pick the first alphabetically-sorted FQDN it saw (api.greptilian.com) as the most important one, or at least the one that will be given the common name in the certificate. But who cares? Who looks at the certs anyway, right? With two different domains (greptilian.com and thedurbins.com), I'm not even sure what common name I want in the cert so maybe it's just as well that Certbot picked for me.
 
 Basically, I ran one command and Certbot did all the work. Great job, Certbot team! 🎉
 
